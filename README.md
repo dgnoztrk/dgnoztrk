@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğan Öztürk</h1>
-<h3 align="center">Software Development Manager | Senior Software Architect | Founder of WilByte</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dgnoztrk&label=Profile%20views&color=0e75b6&style=flat" alt="dgnoztrk" />
-</p>
+<h3 align="center">Software Development Manager | Senior Software Architect</h3>
 
 ---
 
